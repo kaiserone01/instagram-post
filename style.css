@@ -1,0 +1,70 @@
+/* * {
+  
+    min-height: 10px;
+} */
+body {
+    background-color: black;
+    font-family: sans-serif;
+}
+
+.post {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: #ffff;
+    width: 421px;
+    height: 459px;
+    margin: auto;
+}
+
+.post-header {
+  margin: 10px;
+  display: flex;
+}
+
+.paise {
+    width:421px;
+    height: 215px;
+}
+.post-name {
+
+    width: 300px;
+}
+
+.b-footer {
+    justify-content: space-between;
+    display: flex;
+    
+}
+
+.post-footer {
+    margin: 15px;
+}
+
+h1{
+    margin: 0;
+    font-size: 14px;
+}
+
+.html-icon{
+    padding-top: 2px;
+    padding-right: 5px;
+
+}
+
+.c-footer{
+    margin-bottom: 8px;
+    padding-top: 4px;
+    padding-right: 5px;
+}
+
+p{
+    font-size: 15px;
+}
+
+.punticos {
+    padding-left: 69px;
+    padding-top: 2px;
+    padding-right: 5px;
+}
